@@ -4,7 +4,7 @@ A personal portfolio showcasing my journey as a Data Science student at NMIMS Mu
 
 ## 🌐 Live Website
 
-**Visit my portfolio:** [jaymit06.github.io/jaymit-portfolio](https://jaymit06.github.io/jaymit-portfolio/)
+**Visit my portfolio:** [jaymit06.github.io/jaymit-portfolio](https://jaymit06.github.io/jaymit-personal-portfolio/)
 
 ## 👋 About
 
